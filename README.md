@@ -10,4 +10,4 @@
 ## Process
 train -> test 로 진행하며, 최종 test와 submission_making를 이용해 생성한 submission.json를 리더보드에 제출했습니다.
 
-test에 사용된 모델은 train을 통해 발생한 DCSCN_V2_e99_lr0.0001.pt입니다. 
+test에 사용된 모델은 train을 통해 발생한 vitstr_tiny_patch16_224-Seed1111의 best_accuracy.pth입니다. 
