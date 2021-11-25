@@ -11,3 +11,7 @@
 train -> predict 로 진행하며, 최종 predict를 이용해 생성한 submission 파일을 리더보드에 제출했습니다.
 
 predict에 사용된 모델은 predict을 통해 발생한 vitstr_tiny_patch16_224-Seed1111의 best_accuracy.pth입니다. 
+
+## Leader board
+리더보드 제출 기록 사진 입니다
+![Leader_board](demo_image/Leader_board.png)
