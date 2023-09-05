@@ -2,7 +2,6 @@
 
 2021년 2학기 컴퓨터비전의 텀프로젝트 Scene_Text_Recognition 코드 원복 저장소 입니다.
 
-**설명동영상**(https://youtu.be/nJb2_tSkMfo)
 
 ## Env
 
